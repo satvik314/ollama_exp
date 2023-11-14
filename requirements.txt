@@ -1,0 +1,2 @@
+langchainhub
+gpt4all
